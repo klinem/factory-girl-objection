@@ -6,7 +6,7 @@ var Factory = require('factory-girl').Factory;
 var tests = require('factory-girl/lib/adapter-tests');
 var Model = require('objection').Model;
 
-describe('Objection adapter', () => {
+describe('Objection adapter', function () {
   init();
 
   function Author() {
