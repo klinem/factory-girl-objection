@@ -1,6 +1,6 @@
 {
   "name": "factory-girl-objection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Objection.js adapter for factory-girl\"",
   "main": "index.js",
   "homepage": "https://github.com/klinem/factory-girl-objection",
