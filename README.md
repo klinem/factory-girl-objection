@@ -1,4 +1,5 @@
 # factory-girl-objection
+[![Build Status](https://travis-ci.org/klinem/factory-girl-objection.svg?branch=master)](https://travis-ci.org/klinem/factory-girl-objection)
 
 An [Objection](http://vincit.github.io/objection.js/) adapter for [factory-girl](https://github.com/aexmachina/factory-girl).
 
